@@ -43,11 +43,11 @@ Content-Type: application/json
 Accept: application/json
 
 {
-  "nim": "230101001",
-  "nama": "Ahmad Fauzi, S.Kom.",
+  "npm": "2415061001",
+  "nama": "I Made Dipa Rama ",
   "program_studi": "Teknik Informatika",
   "angkatan": 2023,
-  "email": "ahmad.fauzi.update@example.com"
+  "email": ""
 }
 
 ###
